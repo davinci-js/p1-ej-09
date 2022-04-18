@@ -16,7 +16,7 @@
 [null, null, null]
 ```
 
-4- Crear una matriz de 3x3 vacia (valores `null` por defecto), pedir por prompt para cargar solo la primer fila y mostrar la matriz entera. Ejemplo:
+5- Crear una matriz de 3x3 vacia (valores `null` por defecto), pedir por prompt para cargar solo la primer fila y mostrar la matriz entera. Ejemplo:
 
 ```javascript
 [5, true, 5.4]
@@ -24,7 +24,7 @@
 [null, null, null]
 ```
 
-5- Crear una matriz de 3x3 vacia (valores `null` por defecto), pedir por prompt para cargar solo la primer columna y mostrar la matriz entera.
+6- Crear una matriz de 3x3 vacia (valores `null` por defecto), pedir por prompt para cargar solo la primer columna y mostrar la matriz entera.
 
 ```javascript
 [true, null, null]
@@ -32,7 +32,7 @@
 [8, null, null]
 ```
 
-6- Crear una matriz de 3x3 vacia (valores `null` por defecto), pedir por prompt para cargar solo la diagonal y mostrar la matriz entera.
+7- Crear una matriz de 3x3 vacia (valores `null` por defecto), pedir por prompt para cargar solo la diagonal y mostrar la matriz entera.
 
 ```javascript
 [true, null, null]
@@ -40,13 +40,13 @@
 [null, null, true]
 ```
 
-7- Pedir por prompt una cantidad de filas y de columnas, crear una matriz de esas dimensiones.
+8- Pedir por prompt una cantidad de filas y de columnas, crear una matriz de esas dimensiones.
 
-8- Crear una matriz de 3x3 vacia (valores `null` por defecto), pedir por prompt una fila, columna y un valor. Introducir ese valor en la posicion correcta de la matriz. Se puede hacer esto indeterminada cantidad de veces.
+9- Crear una matriz de 3x3 vacia (valores `null` por defecto), pedir por prompt una fila, columna y un valor. Introducir ese valor en la posicion correcta de la matriz. Se puede hacer esto indeterminada cantidad de veces.
 
-9- Pedir por prompt una cantidad de filas y columnas, crear una matriz de esas dimensiones y luego pedir al usuario por prompt los valores para llenar la matriz.
+10- Pedir por prompt una cantidad de filas y columnas, crear una matriz de esas dimensiones y luego pedir al usuario por prompt los valores para llenar la matriz.
 
-10- Pedir por prompt una cantidad de filas y columnas, crear dos matrices de esas dimensiones y luego pedir al usuario por prompt los valores para llenar la matriz (deben ser numeros), sumar ambas matrices y mostrar la matriz resultante. Ejemplo:
+11- Pedir por prompt una cantidad de filas y columnas, crear dos matrices de esas dimensiones y luego pedir al usuario por prompt los valores para llenar la matriz (deben ser numeros), sumar ambas matrices y mostrar la matriz resultante. Ejemplo:
 
 ```javascript
 /* Asi puede quedar una matriz */
